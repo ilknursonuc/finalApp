@@ -1,0 +1,47 @@
+.container {  
+    max-width: 1350px;  
+    width: 100%;  
+    margin: 50px;  
+    height: auto;  
+    display: block;  
+  }  
+    
+  body {  
+    color: #e47c7c;  
+    font-size: 20px;  
+    font-family: Verdana, Arial, Helvetica, monospace;  
+    background-color: #cadea1;  
+  }  
+    
+  h2 {  
+    text-align: center;  
+  }  
+    
+  .form_group {  
+    padding: 10px;  
+    ;    
+  display: block;  
+  }  
+    
+  label {  
+    float: left;  
+    padding-right: 50px;  
+    line-height: 10%;  
+    display: block;  
+    width: 208px;  
+  }  
+
+button {
+    width: 90px;
+    height: 20px;
+    float: center;
+    border-radius: 20%;
+    font-family: fantasy;
+    border-color: #d595ba;
+    font-display: black;
+    font-weight: bold;
+    background-color: #e47c7c;
+    
+}
+
+
